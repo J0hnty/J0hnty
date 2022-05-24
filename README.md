@@ -1,12 +1,15 @@
 - 👋 Hi, I’m @J0hnty
 - 👀 I’m interested in all soorts of things :P (love to learn!)
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning
    * C# (onhold)
    * Html
    * Css
    * Javascript
+   * PHP
+   * SQL
+   * Symfony
 - 💞️ I’m not looking to collaborate for now
-- 📫 How to reach me ... what if you don't :P
+- 📫 You can message me on Discord: J0hnty#7131
 
 <!---
 J0hnty/J0hnty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
