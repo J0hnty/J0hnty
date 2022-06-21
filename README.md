@@ -9,7 +9,7 @@
    * SQL
    * Symfony
 - 💞️ I’m not looking to collaborate for now
-- 📫 You can message me on Discord: J0hnty#7131
+- 📫 You can message me on Discord: Johnty#7883
 
 <!---
 J0hnty/J0hnty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
